@@ -1,0 +1,16 @@
+D:\100DaysOfCode\SagarTGit\100DaysOfCode\OOPsConcept\bin\Debug\net5.0\OOPsConcept.exe
+D:\100DaysOfCode\SagarTGit\100DaysOfCode\OOPsConcept\bin\Debug\net5.0\OOPsConcept.deps.json
+D:\100DaysOfCode\SagarTGit\100DaysOfCode\OOPsConcept\bin\Debug\net5.0\OOPsConcept.runtimeconfig.json
+D:\100DaysOfCode\SagarTGit\100DaysOfCode\OOPsConcept\bin\Debug\net5.0\OOPsConcept.runtimeconfig.dev.json
+D:\100DaysOfCode\SagarTGit\100DaysOfCode\OOPsConcept\bin\Debug\net5.0\OOPsConcept.dll
+D:\100DaysOfCode\SagarTGit\100DaysOfCode\OOPsConcept\bin\Debug\net5.0\OOPsConcept.pdb
+D:\100DaysOfCode\SagarTGit\100DaysOfCode\OOPsConcept\obj\Debug\net5.0\OOPsConcept.csproj.AssemblyReference.cache
+D:\100DaysOfCode\SagarTGit\100DaysOfCode\OOPsConcept\obj\Debug\net5.0\OOPsConcept.GeneratedMSBuildEditorConfig.editorconfig
+D:\100DaysOfCode\SagarTGit\100DaysOfCode\OOPsConcept\obj\Debug\net5.0\OOPsConcept.AssemblyInfoInputs.cache
+D:\100DaysOfCode\SagarTGit\100DaysOfCode\OOPsConcept\obj\Debug\net5.0\OOPsConcept.AssemblyInfo.cs
+D:\100DaysOfCode\SagarTGit\100DaysOfCode\OOPsConcept\obj\Debug\net5.0\OOPsConcept.csproj.CoreCompileInputs.cache
+D:\100DaysOfCode\SagarTGit\100DaysOfCode\OOPsConcept\obj\Debug\net5.0\OOPsConcept.dll
+D:\100DaysOfCode\SagarTGit\100DaysOfCode\OOPsConcept\obj\Debug\net5.0\refint\OOPsConcept.dll
+D:\100DaysOfCode\SagarTGit\100DaysOfCode\OOPsConcept\obj\Debug\net5.0\OOPsConcept.pdb
+D:\100DaysOfCode\SagarTGit\100DaysOfCode\OOPsConcept\obj\Debug\net5.0\OOPsConcept.genruntimeconfig.cache
+D:\100DaysOfCode\SagarTGit\100DaysOfCode\OOPsConcept\obj\Debug\net5.0\ref\OOPsConcept.dll
